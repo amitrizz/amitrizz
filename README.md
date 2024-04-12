@@ -1,15 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&&width=600&height=100&lines=Hello+Everyone+!!!;I'm+Anup+Kumar+Mridha)](https://git.io/typing-svg)<br/>
 
-<!---<h1 align="center">Hi 👋, I'm Anup Kumar Mridha</h1>-->
+<!---<h1 align="center">Hi 👋, I'm Amit Kumar</h1>-->
 <h3 align="center">A passionate developer from India</h3>
-
-- 🔭 I’m currently working on **Spider R&D Club at NITT**
 
 <!---- 🌱 I’m currently learning **Android Development**-->
 
 - 💬 Ask me about **Web Development, Backend Development**
 
-- 📫 How to reach me **anupkumarmridha.net@gmail.com**
+- 📫 How to reach me **amitsagar121001@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
