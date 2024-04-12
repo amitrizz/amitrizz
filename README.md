@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&&width=600&height=100&lines=Hello+Everyone+!!!;I'm+Anup+Kumar+Mridha)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&&width=600&height=100&lines=Hello+Everyone+!!!;I'm+Amit+Kumar)](https://git.io/typing-svg)<br/>
 
 <!---<h1 align="center">Hi 👋, I'm Amit Kumar</h1>-->
 <h3 align="center">A passionate developer from India</h3>
