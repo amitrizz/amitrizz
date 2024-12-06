@@ -5,7 +5,7 @@
 
 <!---- 🌱 I’m currently learning **Android Development**-->
 
-- 💬 Ask me about **Web Development, Backend Development**
+- 💬 Ask me about **Web Development, Backend Development, and Python Developement**
 
 - 📫 How to reach me **amitsagar121001@gmail.com**
 <br>
